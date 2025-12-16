@@ -1,0 +1,12 @@
+# Python virtual environments and caches
+.venv/
+__pycache__/
+*.pyc
+
+# Environment and credentials
+.env
+credentials.json
+token.json
+
+# Generated temp data
+.tmp/
